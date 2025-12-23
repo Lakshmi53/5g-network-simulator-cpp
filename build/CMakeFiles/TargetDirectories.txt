@@ -1,0 +1,3 @@
+/Users/lakshmi/5g-network-simulator/build/CMakeFiles/5g_simulator.dir
+/Users/lakshmi/5g-network-simulator/build/CMakeFiles/edit_cache.dir
+/Users/lakshmi/5g-network-simulator/build/CMakeFiles/rebuild_cache.dir

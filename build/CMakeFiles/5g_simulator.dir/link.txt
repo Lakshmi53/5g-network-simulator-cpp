@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/5g_simulator.dir/src/core/CoreNetwork.cpp.o CMakeFiles/5g_simulator.dir/src/gnb/gNB.cpp.o CMakeFiles/5g_simulator.dir/src/main.cpp.o CMakeFiles/5g_simulator.dir/src/ue/UE.cpp.o -o 5g_simulator
